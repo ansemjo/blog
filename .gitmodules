@@ -1,3 +1,6 @@
 [submodule "themes/hackcss"]
 	path = themes/hackcss
-	url = https://github.com/ansemjo/hugo-theme-hackcss.git
+	url = git@github.com:ansemjo/hugo-theme-hackcss.git
+[submodule "content"]
+	path = content
+	url = git@github.com:ansemjo/hugo-website-content.git
